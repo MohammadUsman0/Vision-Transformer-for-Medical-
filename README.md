@@ -1,2 +1,2 @@
-# Vision-Transformer-for-Medical-
+# Vision-Transformer-for-Medical-Imaging
 Code will be available soon...
